@@ -5,6 +5,7 @@
 // @description  Парсинг данных со страниц каналов на TGStat с сохранением в IndexedDB для выбора каналов публикации рекламы.
 // @author       You
 // @match        https://tgstat.ru/channel/@*
+// @match        https://tgstat.com/ru/channel/@*
 // @grant        none
 // ==/UserScript==
 
